@@ -1,16 +1,26 @@
-## Hi there 👋
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
-<!--
-**neveshdivya/neveshdivya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Nevesh
 
-Here are some ideas to get you started:
+🎓 Student interested in Data Science  
+💻 Learning Python, Machine Learning, and Web Development  
+📍 Based in India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently learning:
+- Data Science
+- Python
+- Git & GitHub
+- Machine Learning
+
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+## 📊 GitHub Stats
+
+![Nevesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=neveshdivya&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=neveshdivya&theme=radical)
